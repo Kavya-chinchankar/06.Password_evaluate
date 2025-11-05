@@ -1,0 +1,103 @@
+# Task 6 – Create a Strong Password and Evaluate Its Strength
+
+## 🧩 Objective
+To understand what makes a password strong, create passwords of varying complexity, test them using online password strength checkers, and learn how complexity improves password security.
+
+---
+
+## 🧠 Tools Used
+- [Password Meter](https://www.passwordmeter.com)
+- [How Secure Is My Password](https://howsecureismypassword.net)
+
+---
+
+## 🪜 Manual Procedure
+
+### Step 1: Created Multiple Passwords
+| Type | Sample Password |
+|------|------------------|
+| Weak | password123 |
+| Medium | P@ssword2025 |
+| Strong | P@ssW0rd2025! |
+| Very Strong | My$ecure#Key2025!@ |
+| Passphrase | Mango!Tree#Grows2025 |
+
+---
+
+### Step 2: Used Uppercase, Lowercase, Numbers, and Symbols
+Examples of variations created and tested:
+- `hello123` → weak  
+- `Hello@123` → better  
+- `H3ll0@2025!` → strong  
+
+---
+
+### Step 3: Tested Passwords on Password Checkers
+Used [passwordmeter.com](https://www.passwordmeter.com) and [howsecureismypassword.net](https://howsecureismypassword.net)  
+to measure password strength and note feedback.
+
+---
+
+### Step 4: Results & Feedback
+
+| Password | Strength/Score | Estimated Crack Time | Feedback |
+|-----------|----------------|----------------------|-----------|
+| password123 | Weak | Few seconds | Too common, add symbols |
+| P@ssword2025 | Medium | A few hours | Add more unique characters |
+| P@ssW0rd2025! | Strong | Several years | Good use of symbols and mix |
+| My$ecure#Key2025!@ | Very Strong | Millions of years | Excellent complexity |
+| Mango!Tree#Grows2025 | Very Strong | Billions of years | Great passphrase with mix of cases |
+
+---
+
+## 🔐 Step 5: Identified Best Practices
+- Use at least **12 or more characters**
+- Include **uppercase, lowercase, numbers, and special symbols**
+- Avoid **dictionary words or predictable patterns**
+- Never reuse passwords across accounts
+- Consider **passphrases** (easy to remember, hard to guess)
+
+---
+
+## 🧾 Step 6: Tips Learned
+- Mix **letters, numbers, and symbols**
+- Use **different cases** (A, a)
+- Avoid **personal info** like birthdays or names
+- Change passwords regularly
+- Use password managers to store them securely
+- Example of a good password: `Sun!Rise#At7AM2025`
+
+---
+
+## ⚔️ Step 7: Common Password Attacks
+| Attack Type | Description | Prevention |
+|--------------|--------------|-------------|
+| **Brute Force Attack** | Tries all possible combinations until it finds a match | Use long, complex passwords |
+| **Dictionary Attack** | Uses a list of common passwords or words | Avoid dictionary-based words |
+| **Phishing Attack** | Tricks users into revealing passwords | Never click suspicious links |
+| **Credential Stuffing** | Uses leaked passwords from other sites | Use unique passwords per account |
+
+---
+
+## 🔎 Step 8: Password Complexity and Security
+The stronger and longer a password is, the harder it becomes to crack.  
+- A **weak password** (like `password123`) can be broken in seconds.  
+- A **complex password** (like `My$ecure#Key2025!@`) might take millions of years.  
+
+Password complexity exponentially increases the time and computational power required for attacks.
+
+---
+
+## 🧠 Conclusion
+This activity helped understand how password strength affects overall security.  
+By combining different character types and sufficient length, passwords become resistant to brute force and dictionary attacks.  
+Passphrases are practical alternatives for strong and memorable passwords.
+
+---
+
+## 🏁 Outcome
+Gained practical knowledge about:
+- Password complexity and evaluation  
+- Password attack prevention techniques  
+- Best practices for secure password creation  
+- Importance of length, variety, and unpredictability in passwords
